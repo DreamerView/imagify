@@ -15,7 +15,7 @@ Perfect for quick editing, compression, or format changes — all client-side wi
 
 ## 📺 Live Demo
 
-🔗 [View on GitHub Pages](https://your-github-username.github.io/your-repo-name/)
+🔗 [View on GitHub Pages](https://dreamerview.github.io/imagify/)
 
 > Replace this URL with your actual GitHub Pages link after publishing.
 
