@@ -17,8 +17,6 @@ Perfect for quick editing, compression, or format changes — all client-side wi
 
 🔗 [View on GitHub Pages](https://dreamerview.github.io/imagify/)
 
-> Replace this URL with your actual GitHub Pages link after publishing.
-
 ## 🛠️ How to Use
 
 1. Download or clone the repository
